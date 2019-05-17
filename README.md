@@ -1,5 +1,7 @@
 # Specification of 'normal' wind turbine operating behaviour for rapid anomaly detection: through the use of machine learning algorithms
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2875804.svg)](https://doi.org/10.5281/zenodo.2875804)
+
 by Nithiya Streethran (nmstreethran@gmail.com)
 
 Files from my master's thesis, completed between May and August 2017 at Heriot-Watt University. I have now released these files under open-source licenses, so that anyone interested can make use of them. Please refer to the [contributing guidelines](/CONTRIBUTING.md) and [code of conduct](/CODE_OF_CONDUCT.md) if you would like to contribute, or contact me (nmstreethran@gmail.com) if you have any questions.
